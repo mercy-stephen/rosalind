@@ -28,3 +28,6 @@ Contributor: Poornima
 Contributor: Dibyendu Biswas![5C2360B8-BFC2-44AF-9E92-3CF497255141](https://user-images.githubusercontent.com/88312648/127867969-fa13a481-a034-4333-9b59-94f3380047ac.jpeg)
 
 Contributor: Sayali Tawade
+
+Contributor: Debdutta Chatterjee
+![IMG_20210720_001319](https://user-images.githubusercontent.com/88325446/127882264-9a2244d3-26d3-4e82-913f-5a296e832b59.jpg)
