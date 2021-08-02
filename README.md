@@ -17,3 +17,6 @@ Contributor: Mohamed Salem
 Contributor: Sanjana Joshi
 ![WhatsApp Image 2020-05-12 at 12.33.59 PM.jpeg](https://github.com/sanjana-joshi14/python_STUDY/blob/main/WhatsApp%20Image%202020-05-12%20at%2012.33.59%20PM.jpeg)
 
+Contributor: Nanthana Ravichandran
+![NanthanaR](https://user-images.githubusercontent.com/88301056/127825806-dc47bfe2-ee88-489e-98d8-79eaf59ae45e.jpeg)
+
