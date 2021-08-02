@@ -13,3 +13,7 @@ Contributor: Bhavya Saini
 
 Contributor: Mohamed Salem
 ![T025KDN24L8-U029CG5FU6T-0935333a0aba-192](https://user-images.githubusercontent.com/88298626/127827498-c3f63978-5dea-4a22-bb0d-4ff5e6bf4013.jpg)
+
+Contributor: Sanjana Joshi
+![WhatsApp Image 2020-05-12 at 12.33.59 PM.jpeg](https://github.com/sanjana-joshi14/python_STUDY/blob/main/WhatsApp%20Image%202020-05-12%20at%2012.33.59%20PM.jpeg)
+
