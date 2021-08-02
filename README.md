@@ -21,6 +21,6 @@ Contributor: Nanthana Ravichandran
 ![NanthanaR](https://user-images.githubusercontent.com/88301056/127825806-dc47bfe2-ee88-489e-98d8-79eaf59ae45e.jpeg)
 
 Contributor: Samuel Mensah Baffoe 
-!
+! ![image](https://user-images.githubusercontent.com/68198076/127855709-d53182f8-6701-4b85-9350-100ff84445b8.jpeg)
 Contributor: Poornima
 ![15541176_978567035613972_4060946006973993769_n](https://user-images.githubusercontent.com/88300459/127853392-9a49300e-73a5-4cfe-8303-257c35d5b3e1.jpg)
