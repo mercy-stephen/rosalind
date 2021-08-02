@@ -48,3 +48,6 @@ Contributor: Debdutta Chatterjee
 
 Contributor: David Guevara-Apaza
 ![Profile](https://user-images.githubusercontent.com/64185467/127889440-1bf4d2c7-3e42-4458-a89d-7aadf37c63b7.jpg)
+
+Contributor: Emmanuel Ani
+![20210102_185235](https://user-images.githubusercontent.com/88311290/127932980-1c93418e-7709-4138-981c-618abe337406.jpg)
