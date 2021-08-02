@@ -20,3 +20,5 @@ Contributor: Sanjana Joshi
 Contributor: Nanthana Ravichandran
 ![NanthanaR](https://user-images.githubusercontent.com/88301056/127825806-dc47bfe2-ee88-489e-98d8-79eaf59ae45e.jpeg)
 
+Contributor: Samuel Mensah Baffoe 
+!
