@@ -89,18 +89,15 @@ A list of the programms we will be working with:
     <p align = center>Mirunalini Arumugam</p>
     </td>
     <td>
-    <p align = center></p>
+    <p align = center>Sayali Tawade</p>
     </td>
   <tr>
-    <td>
-    <p align= center>Sayali Tawade</p>
-    </td>
-    <td>
-    <p align= center></p>
-    </td>
-    </td>
+  <tr>
     <td align = center><img src="https://avatars.githubusercontent.com/u/83224907?s=400&u=da75ab82d38d27a87b8f6c7a65cff24c818bd46c&v=4" height="200" />
-    <p align = center>Rohan Kumar</p>
+      <p align = center>Rohan Kumar</p>
+    </td>
+    <td>
+      <p align = center></p>
     </td>
  <tr>
 </table>
