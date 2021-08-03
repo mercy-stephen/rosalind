@@ -98,5 +98,9 @@ A list of the programms we will be working with:
     <td>
     <p align= center></p>
     </td>
+    </td>
+    <td align = center><img src="https://avatars.githubusercontent.com/u/83224907?s=60&v=4" height="200" />
+    <p align = center>Rohan Kumar</p>
+    </td>
  <tr>
 </table>
