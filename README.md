@@ -1,8 +1,3 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-
 # **Rosalind Team 2021**
 
 👋 **Welcome to our Hackbio 2021 Project Repository!** 👋
