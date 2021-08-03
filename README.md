@@ -99,7 +99,7 @@ A list of the programms we will be working with:
     <p align= center></p>
     </td>
     </td>
-    <td align = center><img src="https://avatars.githubusercontent.com/u/83224907?s=60&v=4" height="200" />
+    <td align = center><img src="https://avatars.githubusercontent.com/u/83224907?s=400&u=da75ab82d38d27a87b8f6c7a65cff24c818bd46c&v=4" height="200" />
     <p align = center>Rohan Kumar</p>
     </td>
  <tr>
