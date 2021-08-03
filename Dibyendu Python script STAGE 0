@@ -1,0 +1,11 @@
+n = "Name: Dibyendu Biswas";
+print (n);
+
+e = "Email: biswasdibyendu39@gmail.com";
+print (e);
+
+u = "Slack Username: @Dibyendu";
+print (u);
+
+b = "Biostacks: Genomics, Transcriptomics, Data Science, Vaccine Informics, Public Health and Genomic Epidemiology";
+print (b);
