@@ -11,7 +11,7 @@ Enthusiastics for bioinformatics...
 We are interested in:
 
 - Genomics
-- Machine Learning
+- Data Science
 - TBA
 - TBA
 - TBA
