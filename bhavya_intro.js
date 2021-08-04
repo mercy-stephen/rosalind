@@ -3,11 +3,11 @@
 
 console.log("Name: Bhavya Saini");
 console.log("Email: bhavyasaini804@gmail.com");
-console.log("Slack Username: Bhavya");
+console.log("Slack Username: Bhavyasind");
 console.log("Biostack: Transcriptomics, Data Science, Vaccine Informatics");
 console.log("Twitter: @bhavyeah13");
 
-const str1 = 'Bhavya';
+const str1 = 'Bhavyasind';
 const str2 = 'bhavyeah13';
 const findHammingDistance = (str1 = '', str2 = '') => {
    let distance = 0;
