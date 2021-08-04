@@ -28,7 +28,7 @@ A list of the programms we will be working with:
 3. Julia
 4. Java
 5. Javascript
-6. TBA
+6. Perl
 7. TBA
 
 ---
