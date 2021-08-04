@@ -89,6 +89,7 @@ A list of the programms we will be working with:
     <p align = center>Mirunalini Arumugam</p>
     </td>
     <td>
+    <td align= center><img src="https://user-images.githubusercontent.com/88305946/128205394-3bcd8ebe-e53a-4604-8f59-746a00a2f7b1.jpg" height="200" />
     <p align = center>Sayali Tawade</p>
     </td>
   <tr>
