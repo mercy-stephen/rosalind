@@ -98,6 +98,10 @@ A list of the programms we will be working with:
     </td>
     <td align = center><img src="https://avatars.githubusercontent.com/u/84804618?s=400&u=2ecf9d1461228f18296389ddd2f752d85eb13715&v=4" height="200" />
       <p align = center>Aditi Singh</p>
-    </td>
- </tr>
+      </td>
+  <tr>
+  <tr>
+    <td align = center><img src="https://avatars.githubusercontent.com/u/88290865?s=400&u=79f1e8a273dd4b6d50e1de9eba7b94a823dfd6b0&v=4"height="300" />
+      <p align = center>Eslam M Shedid</p>
 </table>
+
