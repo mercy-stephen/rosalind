@@ -3,7 +3,7 @@ print("Name: Aditi Singh")
 print("Email: singhaditi7733@gmail.com")
 print("Slack Username: @AditiSingh12345")
 
-print = ("Twitter username: @@AditiSi28068977")
+print("Twitter username: @@AditiSi28068977")
 
 print("Biostacks: Genomics")
 
