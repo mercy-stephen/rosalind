@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[4]:
+# In[5]:
 
 
 n = "Name: Dibyendu Biswas"
@@ -20,12 +20,12 @@ t = "<Twitter Handle>: @Dibyend11153533"
 print (t)
 
 
-def hammingDist(str1, str2):
+def hammingDist(SU, TH):
     i = 0
     count = 0
  
-    while(i < len(str1)):
-        if(str1[i] != str2[i]):
+    while(i < len(SU)):
+        if(SU[i] != TH[i]):
             count += 1
         i += 1
     return count
