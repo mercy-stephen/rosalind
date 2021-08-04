@@ -98,6 +98,9 @@ A list of the programms we will be working with:
     </td>
     <td>
       <p align = center></p>
+    </td> <td align = center><img src=
+https://avatars.githubusercontent.com/u/84804618?s=400&u=2ecf9d1461228f18296389ddd2f752d85eb13715&v=4height="200" />
+      <p align = center>Aditi Singh</p>
     </td>
  <tr>
 </table>
