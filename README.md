@@ -96,11 +96,10 @@ A list of the programms we will be working with:
     <td align = center><img src="https://avatars.githubusercontent.com/u/83224907?s=400&u=da75ab82d38d27a87b8f6c7a65cff24c818bd46c&v=4" height="200" />
       <p align = center>Rohan Kumar</p>
     </td>
-    <td>
-      <p align = center></p>
-    </td> <td align = center><img src=
-https://avatars.githubusercontent.com/u/84804618?s=400&u=2ecf9d1461228f18296389ddd2f752d85eb13715&v=4height="200" />
+  </tr>
+  <tr>
+    <td align = center><img src=https://avatars.githubusercontent.com/u/84804618?s=400&u=2ecf9d1461228f18296389ddd2f752d85eb13715&v=4height="200" />
       <p align = center>Aditi Singh</p>
     </td>
- <tr>
+ </tr>
 </table>
