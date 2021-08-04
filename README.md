@@ -29,7 +29,7 @@ A list of the programms we will be working with:
 4. Java
 5. Javascript
 6. Perl
-7. TBA
+7. C
 
 ---
 
