@@ -5,9 +5,7 @@ for a in Data:
 s1=Data["slack_username: "]
 s2=Data["twitter_handle: "]
 for x in range(len(s1)):
-    if s1[x]==s2[x]:
-        continue
-    else:
+    if s1[x]!=s2[x]:
         counter+=1
 print "hamming_distance: " +`counter` 
 x=input("if you want to end the program press enter")
