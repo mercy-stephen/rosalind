@@ -1,12 +1,12 @@
 #!usr/bin/java
 public class Sayali_tawade{
 
-    public static int getDistance(String x, String y){
+    public static void getDistance(String x, String y){
 
         int hamming_distance =0;
 
         if(x.length()!=y.length()){
-            System.out.println("Both string sizes are different");
+          
             return;
         }
 
@@ -15,7 +15,7 @@ public class Sayali_tawade{
                 hamming_distance++;
         }
 
-        System.out.println("x="+x+", y="+y+"  Hamming distance: " + humming_distance);
+        System.out.println("x="+x+", y="+y+"  Hamming distance: " + hamming_distance);
 
     }
 public static void main(String[] args) {   
@@ -28,4 +28,5 @@ public static void main(String[] args) {
         String x = "Sayali";
         String y = "tawade_sayali";
         getDistance(x, y);
+}
 }
