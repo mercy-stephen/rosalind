@@ -1,6 +1,6 @@
 name ='Emmanuel Ani'
 email = 'emmanuelani234@gmail.com'
-slack_username = '@Manuel'
+slack_username = '@emmanuelani234'
 biostack = 'Data Science'
 twitter_handle ='emmanuelani234'
 
@@ -19,4 +19,4 @@ print(slack_username)
 print(biostack)
 print(twitter_handle)
 
-hammingDistance(slack, twitter_handle)
+hammingDistance(slack_username, twitter_handle)
