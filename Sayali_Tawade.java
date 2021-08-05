@@ -20,6 +20,6 @@ public static void main(String[] args) {
     
         String x = "Sayali";
         String y = "tawade_sayali";
-        System.out.println("  Hamming distance: " + getDistance(x,y));
+        System.out.println("Hamming distance: " + getDistance(x,y));
 }
 }
