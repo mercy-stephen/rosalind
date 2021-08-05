@@ -1,7 +1,5 @@
 #!usr/bin/julia
 
-#!usr/bin/julia
-
 ########### HACKBIO 2021 ###########
 # Stage 0 - Introduction
 
