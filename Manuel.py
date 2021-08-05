@@ -2,21 +2,21 @@ name ='Emmanuel Ani'
 email = 'emmanuelani234@gmail.com'
 slack_username = '@emmanuelani234'
 biostack = 'Data Science'
-twitter_handle ='emmanuelani234'
+twitter_handle ='@emmanuelani234'
 
 def hammingDistance(string1, string2):
     i = 0
     count = 0
-        while i < len(string1):
-            if (string1[i] != string2[i]):
-                count += 1
+    while i < len(string1):
+        if (string1[i] != string2[i]):
+            count += 1
             i += 1
-        return count
+    return count
 
-print(name)
-print(email) 
-print(slack_username)
-print(biostack)
-print(twitter_handle)
+print('Name:', name)
+print('Email:', email)
+print('Slack_username:', slack_username)
+print('Biostack:', biostack)
+print('Twitter_handle:', twitter_handle)
 
-hammingDistance(slack_username, twitter_handle)
+print('Hamming Distance:', hammingDistance(slack_username, twitter_handle))
