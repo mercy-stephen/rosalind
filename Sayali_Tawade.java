@@ -7,10 +7,8 @@ public class Sayali_tawade{
      System.out.println("Biostack:Data science, Genomics");   
      System.out.println("Twitter handle:@tawade_sayali");  
     }
-}
-public class HammingDistanceString {
 
-    public static void getDistance(String x, String y){
+    public static int getDistance(String x, String y){
 
         int hamming_distance =0;
 
@@ -28,7 +26,6 @@ public class HammingDistanceString {
 
     }
 
-    public static void main(String[] args) {
         String x = "Sayali";
         String y = "tawade_sayali";
         getDistance(x, y);
