@@ -8,11 +8,11 @@ public class Sayali {
      System.out.println("Twitter handle:@tawade_sayali");  
     }
 }
-public class HummingDistanceString {
+public class HammingDistanceString {
 
     public static void getDistance(String x, String y){
 
-        int humming_distance =0;
+        int hamming_distance =0;
 
         if(x.length()!=y.length()){
             System.out.println("Both string sizes are different");
@@ -21,7 +21,7 @@ public class HummingDistanceString {
 
         for (int i = 0; i <x.length() ; i++) {
             if(x.charAt(i)!=y.charAt(i))
-                humming_distance++;
+                hamming_distance++;
         }
 
         System.out.println("x="+x+", y="+y+"  Hamming distance: " + humming_distance);
