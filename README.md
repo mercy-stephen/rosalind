@@ -12,8 +12,8 @@ We are interested in:
 
 - Genomics
 - Data Science
-- TBA
-- TBA
+- Metagenomics
+- Drug Dsign and Homology modeling
 - TBA
 
 
@@ -103,5 +103,8 @@ A list of the programms we will be working with:
   <tr>
     <td align = center><img src="https://avatars.githubusercontent.com/u/88290865?s=400&u=79f1e8a273dd4b6d50e1de9eba7b94a823dfd6b0&v=4"height="300" />
       <p align = center>Eslam M Shedid</p>
+    <td align = center><img src=https://avatars.githubusercontent.com/u/48734941?s=400&u=c1fdb95758b62a0fb21271544e162261325ac882&v=4
+                            height="300" />
+      <p align = center>Mohamed Said AboHoussien</p>
 </table>
 
