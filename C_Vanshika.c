@@ -4,11 +4,11 @@
 #include <string.h>
 int main() {
             int i, length, count = 0;
-            printf("\n Name : Vanshika Agarwal ") ;
-            printf("\n Email : vanshika.agarwal98@gmail.com ");  
-            printf("\n Slack Username : @Vanshika_16") ;
-            printf("\n Biostack : Data Science&Vaccine Informatics&Genomics") ;
-            printf("\n Twitter : @Vanshika165 ") ;
+            printf("\nName:Vanshika Agarwal ") ;
+            printf("\nEmail:vanshika.agarwal98@gmail.com ");  
+            printf("\n<Slack_Username>:@Vanshika_16") ;
+            printf("\nBiostack:Data Science&Vaccine Informatics&Genomics") ;
+            printf("\n<Twitter_handle>:@Vanshika165 ") ;
             char S1[] = "Vanshika_16" ;
             char S2[]="Vanshika165" ;
             length = strlen(S2);
@@ -19,6 +19,6 @@ int main() {
                  count++;
                }
             }
-            printf("\nHamming Distance : %d", count);
+            printf("\n<Hamming_Distance>: %d", count);
             return 0;
 }
