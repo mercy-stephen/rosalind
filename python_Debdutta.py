@@ -10,19 +10,19 @@
 # In[5]:
 
 
-n = "Name: Debdutta Chatterjee"
+n = "Name:Debdutta Chatterjee"
 print (n)
 
-e = "Email: debduttachatterjee00@gmail.com"
+e = "Email:debduttachatterjee00@gmail.com"
 print (e)
 
-u = "<Slack Username>: @dev00001122"
+u = "<Slack_Username>:@dev00001122"
 print (u)
 
-b = "Biostacks: Genomics, Transcriptomics, Vaccine Informics, Public Health and Genomic Epidemiology"
+b = "Biostacks:Genomics, Transcriptomics, Vaccine Informics, Public Health and Genomic Epidemiology"
 print (b)
 
-t = "<Twitter Handle>: @dev00001122"
+t = "<Twitter_handle>:@dev00001122"
 print (t)
 
 
@@ -40,7 +40,7 @@ def hammingDist(SU, TH):
 AB = "dev00001122"
 CD = "dev00001122"
 
-print("<Hamming distance>:",(hammingDist(AB, CD)))
+print("<Hamming_Distance>:",(hammingDist(AB, CD)))
 
 
 # In[ ]:
