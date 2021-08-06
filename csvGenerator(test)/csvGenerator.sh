@@ -25,7 +25,7 @@ sed -i '/csvGenerator.sh/d' names.txt
 sed -i '/members_rosalind.csv/d' names.txt
 
 ### setting headers and creating csv
-echo "Name,Email,Slack,Twitter,Biostack,H_distance" > members_rosalind.csv
+echo "Name,Email,<Slack_username>,<Twitter_handle>,Biostack,<Humming_Distance>" > members_rosalind.csv
 
 ### creating the loop
 Lines=$(cat names.txt)
