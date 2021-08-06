@@ -7,7 +7,7 @@ int main() {
             printf("\n Name : Vanshika Agarwal ") ;
             printf("\n Email : vanshika.agarwal98@gmail.com ");  
             printf("\n Slack Username : @Vanshika_16") ;
-            printf("\n Biostack : Data Science,Vaccine Informatics, Genomics") ;
+            printf("\n Biostack : Data Science&Vaccine Informatics&Genomics") ;
             printf("\n Twitter : @Vanshika165 ") ;
             char S1[] = "Vanshika_16" ;
             char S2[]="Vanshika165" ;
