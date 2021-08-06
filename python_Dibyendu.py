@@ -33,9 +33,6 @@ def hammingDist(SU, TH):
  
 SU = "Dibyendu1153533"
 TH = "Dibyend11153533"
-x=  hammingDist(SU, TH)
-print ("<Hamming_Distance>:",str(x))
-
 print("<Hamming_Distance>:",(hammingDist(SU, TH)))
 
 
