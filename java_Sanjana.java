@@ -15,16 +15,16 @@ public class java_Sanjana {
  
 public static void main (String[] args)
 {
-    System.out.println("Name: Sanjana Joshi");
-    System.out.println("Email id: sanjanajo868@gmailcom");    
-    System.out.println("Slack username: @Sanjana1404"); 
-    System.out.println("Biostack: Genomics");  
-    System.out.println("Twitter handle: @Sanjana1404");     
+    System.out.println("Name:Sanjana Joshi");
+    System.out.println("Email:sanjanajo868@gmailcom");    
+    System.out.println("<Slack_username>:@Sanjana1404"); 
+    System.out.println("Biostack:Genomics");  
+    System.out.println("<Twitter_handle>:@Sanjana1404");     
     
     String str1 = "Sanjana1404";
     String str2 = "Sanjana1404";
  
-    System.out.println("Hamming distance: "+ hammingDist (str1, str2));
+    System.out.println("<Hamming_Distance:>"+ hammingDist (str1, str2));
 }
 }    
         
