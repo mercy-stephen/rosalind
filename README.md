@@ -14,6 +14,7 @@ We are interested in:
 - Data Science
 - Metagenomics
 - Drug Designing and Homology modeling
+- Transcriptomics
 - TBA
 
 
