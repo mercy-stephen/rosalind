@@ -4,10 +4,10 @@
 chmod +x csvGenerator.sh
 
 ### clone the repository
-#git clone https://github.com/mercy-stephen/rosalind.git
+git clone https://github.com/mercy-stephen/rosalind.git
 
 ### move into the main folder
-#cd rosalind
+cd rosalind
 
 ###
 echo " "
