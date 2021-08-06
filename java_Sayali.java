@@ -12,14 +12,14 @@ public class java_Sayali{
         return hamming_distance;
     }
 public static void main(String[] args) {   
-     System.out.println("Name: Sayali Jayendra Tawade");
-     System.out.println("Email id: tawadesayali4848@gmail.com");    
-     System.out.println("Slack username: @tawadesayali11");     
+     System.out.println("Name:Sayali Jayendra Tawade");
+     System.out.println("Email:tawadesayali4848@gmail.com");    
+     System.out.println("Slack_username:@tawadesayali11");     
      System.out.println("Biostack:Data science & Genomics");   
-     System.out.println("Twitter handle:@tawadesayali11");  
+     System.out.println("<Twitter_handle>:@tawadesayali11");  
     
         String x = "tawadesayali11";
         String y = "tawadesayali11";
-        System.out.println("Hamming distance: " + getDistance(x,y));
+        System.out.println("<Hamming_Distance:>" + getDistance(x,y));
 }
 }
