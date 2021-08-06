@@ -1,4 +1,4 @@
-#!/bin/bash
+!/bin/bash
 
 ### change the mode and give privilege
 chmod +x csvGenerator.sh
