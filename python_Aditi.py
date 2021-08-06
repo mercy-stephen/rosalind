@@ -1,11 +1,11 @@
  # HackBio Internship 2021 
-print("Name: Aditi Singh")
-print("Email: singhaditi7733@gmail.com")
-print("Slack Username: @AditiSingh12345")
+print("Name:Aditi Singh")
+print("Email:singhaditi7733@gmail.com")
+print("<Slack_username>:@AditiSingh12345")
 
-print("Twitter username: @@AditiSi28068977")
+print("<Twitter_handle>:@@AditiSi28068977")
 
-print("Biostacks: Genomics")
+print("Biostacks:Genomics")
 
 
 def hammingDistance(slack, twitter):
