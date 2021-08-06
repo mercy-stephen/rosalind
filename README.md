@@ -80,7 +80,7 @@ A list of the programms we will be working with:
     <td align = center><img src="https://user-images.githubusercontent.com/88311290/127932980-1c93418e-7709-4138-981c-618abe337406.jpg" height="200" />
     <p align = center>Emmanuel Ani</p>
     </td>
-    <td align = center><img src="https://github.com/sanjana-joshi14/python_STUDY/blob/main/WhatsApp%20Image%202020-05-12%20at%2012.33.59%20PM.jpeg" height="200" />
+    <td align = center><img src="https://user-images.githubusercontent.com/75350171/128459550-0f2f8288-fee0-4730-8aaf-f11bc7ca6071.png)" height="200" />
     <p align = center>Sanjana Joshi</p>
     </td>
   <tr>
