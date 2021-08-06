@@ -1,5 +1,5 @@
 #!usr/bin/java
-public class Sayali_tawade{
+public class java_Sayali{
 
     public static int getDistance(String x, String y){
 
