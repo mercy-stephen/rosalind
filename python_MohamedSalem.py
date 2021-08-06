@@ -9,19 +9,19 @@ Original file is located at
 
 #!usr/bin/python
 
-name = ("Name: Mohamed Salem")
+name = ("Name:Mohamed Salem")
 print (name)
 
-email = ("email: drmohamedsalem340@gmail.com")
+email = ("Email:drmohamedsalem340@gmail.com")
 print (email)
 
-username = ("Slack Username: @Salem")
+username = ("<Slack_Username>:@Salem")
 print (username)
 
-Twitter = ("Twitter username: @drmohamedsalem4")
+Twitter = ("<Twitter_handle>:@drmohamedsalem4")
 print (Twitter)
 
-Biostacks = ("Biostacks: Medicinal chemistry and CheminformaticS")
+Biostacks = ("Biostacks:Medicinal chemistry and CheminformaticS")
 print (Biostacks)
 
 
