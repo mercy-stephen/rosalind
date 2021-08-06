@@ -1,11 +1,11 @@
 // HACKBIO 2021
 // stage 0: Bhavya's Code
 
-console.log("Name: Bhavya Saini");
-console.log("Email: bhavyasaini804@gmail.com");
-console.log("Slack Username: Bhavyasind");
-console.log("Biostack: Transcriptomics, Data Science, Vaccine Informatics");
-console.log("Twitter: @bhavyeah13");
+console.log("Name:Bhavya Saini");
+console.log("Email:bhavyasaini804@gmail.com");
+console.log("<Slack_username>:Bhavyasind");
+console.log("Biostack:Transcriptomics, Data Science, Vaccine Informatics");
+console.log("<Twitter_handle>:@bhavyeah13");
 
 const str1 = 'Bhavyasind';
 const str2 = 'bhavyeah13';
