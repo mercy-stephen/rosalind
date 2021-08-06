@@ -18,8 +18,8 @@ public static void main(String[] args) {
      System.out.println("Biostack:Data science & Genomics");   
      System.out.println("Twitter handle:@tawadesayali11");  
     
-        String x = "tawade_sayali";
-        String y = "tawade_sayali";
+        String x = "tawadesayali11";
+        String y = "tawadesayali11";
         System.out.println("Hamming distance: " + getDistance(x,y));
 }
 }
