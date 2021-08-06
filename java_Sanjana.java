@@ -1,6 +1,6 @@
 #!usr/bin/java
 
-public class Sanjana_Stage1 {       
+public class java_Sanjana {       
     static int hammingDist(String str1, String str2)
 {
     int i = 0, count = 0;
