@@ -10,7 +10,7 @@ print (n)
 e = "Email:biswasdibyendu39@gmail.com"
 print (e)
 
-u = "<Slack Username>:@Dibyendu1153533"
+u = "<Slack_Username>:@Dibyendu1153533"
 print (u)
 
 b = "Biostacks:Genomics,Transcriptomics,Data Science,Vaccine Informics,Public Health and Genomic Epidemiology"
@@ -33,6 +33,8 @@ def hammingDist(SU, TH):
  
 SU = "Dibyendu1153533"
 TH = "Dibyend11153533"
+x=  hammingDist(SU, TH)
+print ("<Hamming_Distance>:",str(x))
 
 print("<Hamming_Distance>:",(hammingDist(SU, TH)))
 
