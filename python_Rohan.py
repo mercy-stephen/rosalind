@@ -1,17 +1,17 @@
  # HackBio Internship 2021 
-name= ("Name: Rohan Kumar")
+name= ("Name:Rohan Kumar")
 print (name)
 
-email = ("Email: rohancoolraj5@gmail.com")
+email = ("Email:rohancoolraj5@gmail.com")
 print (email)
 
-username = ("Slack Username: @Rohanraj11")
+username = ("<Slack_Username>:@Rohanraj11")
 print (username)
 
-Twitter = ("Twitter username: @Rohan11322")
+Twitter = ("<Twitter_username>:@Rohan11322")
 print (Twitter)
 
-Biostacks = ("Biostacks: Genomics")
+Biostacks = ("Biostack:Genomics")
 print (Biostacks)
 
 def hammingDistance(slack, twitter):
