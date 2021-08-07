@@ -5,8 +5,8 @@
 
 name = "David Guevara-Apaza"
 email = "davidguevaraapaza@gmail.com"
-slack = "@yoodavo"
-twitter = "yooodavo"
+slack = "@yoodavoo"
+twitter = "@yooodavo"
 biostack = "Data Science & Genomics"
 
 # Julia calculate Hamming distance in 2 (same length) strings

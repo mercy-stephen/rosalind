@@ -4,12 +4,12 @@
 # Stage 0 - Introduction
 print('Name:Poornima')
 print('Email:poornimasivamani@gmail.com')
-print('<Slack_username>:poornimacorp@slack.com')
+print('<Slack_username>:@poornimacorp')
 print('Biostack:genomics')
 
 
 #create vector
-print('<Twitter_handlle>:poornim@41024410')
+print('<Twitter_handlle>:@poornima4410')
 
 #find hamming distance
 

@@ -3,7 +3,7 @@
 
 console.log("Name:Bhavya Saini");
 console.log("Email:bhavyasaini804@gmail.com");
-console.log("<Slack_username>:Bhavyasind");
+console.log("<Slack_username>:@Bhavyasind");
 console.log("<Twitter_handle>:@bhavyeah13");
 console.log("Biostack:Transcriptomics and Data Science");
 

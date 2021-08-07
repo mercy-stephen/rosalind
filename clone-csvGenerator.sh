@@ -1,10 +1,15 @@
 !/bin/bash
 
 ### change the mode and give privilege
-chmod +x csvGenerator.sh
+chmod +x clone-csvGenerator.sh
 
-### asumming you are into the main folder
+### clone the repository
+git clone https://github.com/mercy-stephen/rosalind.git
 
+### move into the main folder
+cd rosalind
+
+###
 echo " "
 echo "Welcome to Rosalin's csv_generator!!"
 echo "..."
