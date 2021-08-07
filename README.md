@@ -113,9 +113,8 @@ We are interested in:
       <p align = center>Mohamed Said AboHoussien</p>
   <tr>
   <tr>
-    <td>
-    <p align = center>Sanjana Joshi</p>
-    </td>
+    <td align = center><img src="https://github.com/sanjana-joshi14/python_STUDY/blob/main/WhatsApp%20Image%202020-05-12%20at%2012.33.59%20PM.jpeg"height="300" />
+      <p align = center>Sanjana Joshi</p>
     <td>
     <p align = center>Mirunalini Arumugam</p>
     </td>
