@@ -117,6 +117,12 @@ We are interested in:
       <p align = center>Sanjana Joshi</p>
     <td>
     <p align = center>Mirunalini Arumugam</p>
+  <tr>
+  <tr>
+    <td>
+      <p align = center>Radhika</p>
+    <td>
+    <p align = center>Nwaigwe Samuel Chisom</p>
     </td>
    <tr>
 </table>
