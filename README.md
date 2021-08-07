@@ -46,6 +46,8 @@ We are interested in:
 - Metagenomics
 - Drug Designing and Homology modeling
 - Transcriptomics
+- Vaccine informatics
+- Medicinal chemistry and Cheminformatics
 
 
 <table style="padding:10px">
