@@ -1,28 +1,15 @@
 # **Rosalind Team 2021**
 
+---
+
 👋 **Welcome to our Hackbio 2021 Project Repository!** 👋
 
 ---
 
 ## About The Project
+### Task 1:
 
-Enthusiastics for bioinformatics...
-
-We are interested in:
-
-- Genomics
-- Data Science
-- Metagenomics
-- Drug Designing and Homology modeling
-- Transcriptomics
-- TBA
-
-
-> 📘 Probably add info about the future project (idk). Add more info.
-
-
-
-A list of the programms we will be working with:
+> 📘 List of the programms we worked with:
 
 1. Python
 2. R
@@ -32,9 +19,34 @@ A list of the programms we will be working with:
 6. Perl
 7. C
 
+You either can [clone and generate the csv task](https://github.com/mercy-stephen/rosalind/blob/main/clone-csvGenerator.sh), download the file and run this in your command line:
+
+```` 
+bash clone-csvGenerator.sh 
+````
+
+Or if you already cloned our repository just [generate the csv task](https://github.com/mercy-stephen/rosalind/blob/main/csvGenerator.sh) and run this in your command line:
+
+```` 
+bash csvGenerator.sh
+````
+
+Either way you will get a [csv file](https://github.com/mercy-stephen/rosalind/blob/main/members_rosalind.csv) with more info about us!
+
+This is the end of **Task 1.**
+
 ---
 
 ## **About Us**
+
+We are interested in:
+
+- Genomics
+- Data Science
+- Metagenomics
+- Drug Designing and Homology modeling
+- Transcriptomics
+
 
 <table style="padding:10px">
   <tr>
@@ -80,15 +92,7 @@ A list of the programms we will be working with:
   <tr>
     <td align = center><img src="https://user-images.githubusercontent.com/88311290/127932980-1c93418e-7709-4138-981c-618abe337406.jpg" height="200" />
     <p align = center>Emmanuel Ani</p>
-    </td>
-    <td align = center><img src="https://user-images.githubusercontent.com/75350171/128459550-0f2f8288-fee0-4730-8aaf-f11bc7ca6071.png)" height="200" />
-    <p align = center>Sanjana Joshi</p>
-    </td>
-  <tr>
-  <tr>
-    <td>
-    <p align = center>Mirunalini Arumugam</p>
-    </td>
+    </td>  
     <td align= center><img src="https://user-images.githubusercontent.com/88305946/128205394-3bcd8ebe-e53a-4604-8f59-746a00a2f7b1.jpg" height="200" />
     <p align = center>Sayali Tawade</p>
     </td>
@@ -107,5 +111,14 @@ A list of the programms we will be working with:
     <td align = center><img src=https://avatars.githubusercontent.com/u/48734941?s=400&u=c1fdb95758b62a0fb21271544e162261325ac882&v=4
                             height="300" />
       <p align = center>Mohamed Said AboHoussien</p>
+  <tr>
+  <tr>
+    <td>
+    <p align = center>Sanjana Joshi</p>
+    </td>
+    <td>
+    <p align = center>Mirunalini Arumugam</p>
+    </td>
+   <tr>
 </table>
 
