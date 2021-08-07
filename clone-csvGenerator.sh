@@ -10,7 +10,7 @@ git clone https://github.com/mercy-stephen/rosalind.git
 cd rosalind
 
 echo " "
-echo "Welcome to Rosalin's csv_generator!!"
+echo "Welcome to Rosalind's csv_generator!!"
 echo "..."
 echo "Running the scripts"
 echo "..."
