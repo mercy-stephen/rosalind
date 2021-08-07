@@ -5,11 +5,9 @@
 print('Name:Poornima')
 print('Email:poornimasivamani@gmail.com')
 print('<Slack_username>:@poornimacorp')
-print('Biostack:genomics')
-
-
-#create vector
 print('<Twitter_handlle>:@poornima4410')
+print('Biostack:Genomics')
+
 
 #find hamming distance
 

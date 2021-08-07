@@ -7,8 +7,8 @@ int main() {
             printf("\nName:Vanshika Agarwal ") ;
             printf("\nEmail:vanshika.agarwal98@gmail.com ");  
             printf("\n<Slack_Username>:@Vanshika_16") ;
-            printf("\nBiostack:Data Science&Vaccine Informatics&Genomics") ;
             printf("\n<Twitter_handle>:@Vanshika165 ") ;
+            printf("\nBiostack:Data Science & Vaccine Informatics") ;
             char S1[] = "Vanshika_16" ;
             char S2[]="Vanshika165" ;
             length = strlen(S2);
