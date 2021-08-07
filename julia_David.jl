@@ -28,10 +28,10 @@ end
 # Stage 0_prints
 println("Name:", name)
 println("Email:", email)
-println("<Slack_username:>", slack)
-println("<Twitter_handle:>", twitter)
+println("<Slack_username>:", slack)
+println("<Twitter_handle>:", twitter)
 println("Biostack:", biostack)
 # Stage1_print get the hamming distance from the strings
-println("<Hammming_Distance:>", hammingDist(twitter, slack))
+println("<Hammming_Distance>:", hammingDist(twitter, slack))
 
 

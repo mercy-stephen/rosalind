@@ -14,14 +14,14 @@ def HammingDist(string1, string2):
     return count
 
 
-print('Name:', name)
-print('Email:', email)
-print('<Slack_username:>', slack_username)
-print('Biostack:', biostack)
-print('<Twitter_handle:>', twitter_handle)
+print(f'Name:{name}')
+print(f'Email:{email}')
+print(f'<Slack_username>:{slack_username}')
+print(f'<Twitter_handle>:{twitter_handle}')
+print(f'Biostack:{biostack}')
 
 a = HammingDist(slack_username, twitter_handle)
-print('<Hamming_Distance:>', a)
+print(f'<Hamming_Distance>:{a}')
 
 
 

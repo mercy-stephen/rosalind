@@ -1,4 +1,4 @@
-#!usr/bin/java
+
 public class java_Sayali{
 
     public static int getDistance(String x, String y){
@@ -20,6 +20,6 @@ public static void main(String[] args) {
     
         String x = "tawadesayali11";
         String y = "tawadesayali11";
-        System.out.println("<Hamming_Distance:>" + getDistance(x,y));
+        System.out.println("<Hamming_Distance>:" + getDistance(x,y));
 }
 }

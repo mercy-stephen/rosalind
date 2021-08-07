@@ -4,8 +4,9 @@
 console.log("Name:Bhavya Saini");
 console.log("Email:bhavyasaini804@gmail.com");
 console.log("<Slack_username>:Bhavyasind");
-console.log("Biostack:Transcriptomics, Data Science, Vaccine Informatics");
 console.log("<Twitter_handle>:@bhavyeah13");
+console.log("Biostack:Transcriptomics and Data Science");
+
 
 const str1 = 'Bhavyasind';
 const str2 = 'bhavyeah13';
@@ -21,4 +22,5 @@ const findHammingDistance = (str1 = '', str2 = '') => {
    };
    return 0;
 };
-console.log("Hamming Distance:", findHammingDistance(str1, str2));
+
+console.log("<Hamming_distance>:", findHammingDistance(str1, str2));

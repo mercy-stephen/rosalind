@@ -3,8 +3,8 @@
 print("Name:Nanthana Ravichandran")
 print("Email:nanthanaravichandran@gmail.com")
 print("<Slack_username>:@Nanthanaravi")
-print("Biostack:Transcriptomics")
 print("<Twitter_username>:@nanthanaravi")
+print("Biostack:Transcriptomics")
 
 slack_username = "@Nanthanaravi"
 twitter_username = "@nanthanaravi"
@@ -17,4 +17,4 @@ def hammingDist(slack_username, twitter_username):
             count += 1
         i += 1
     return count
-print("Hamming_Distance:",hammingDist(slack_username, twitter_username))
+print(f"<Hamming distance>:{hammingDist(slack_username, twitter_username)}")

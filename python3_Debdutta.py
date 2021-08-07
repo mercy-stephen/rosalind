@@ -1,14 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
-
-
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[5]:
-
 
 n = "Name:Debdutta Chatterjee"
 print (n)
@@ -19,11 +11,11 @@ print (e)
 u = "<Slack_Username>:@dev00001122"
 print (u)
 
-b = "Biostacks:Genomics, Transcriptomics, Vaccine Informics, Public Health and Genomic Epidemiology"
-print (b)
-
 t = "<Twitter_handle>:@dev00001122"
 print (t)
+
+b = "Biostack:Genomics & Transcriptomics"
+print (b)
 
 
 def hammingDist(SU, TH):
@@ -40,10 +32,7 @@ def hammingDist(SU, TH):
 AB = "dev00001122"
 CD = "dev00001122"
 
-print("<Hamming_Distance>:",(hammingDist(AB, CD)))
-
-
-# In[ ]:
+print(f"<Hamming_Distance>:{(hammingDist(AB, CD))}")
 
 
 

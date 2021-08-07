@@ -1,4 +1,3 @@
-#!usr/bin/java
 
 public class java_Sanjana {       
     static int hammingDist(String str1, String str2)
@@ -24,7 +23,7 @@ public static void main (String[] args)
     String str1 = "Sanjana1404";
     String str2 = "Sanjana1404";
  
-    System.out.println("<Hamming_Distance:>"+ hammingDist (str1, str2));
+    System.out.println("<Hamming_Distance>:"+ hammingDist (str1, str2));
 }
 }    
         

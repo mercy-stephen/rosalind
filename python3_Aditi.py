@@ -2,10 +2,8 @@
 print("Name:Aditi Singh")
 print("Email:singhaditi7733@gmail.com")
 print("<Slack_username>:@AditiSingh12345")
-
 print("<Twitter_handle>:@AditiSi28068977")
-
-print("Biostacks:Genomics")
+print("Biostack:Genomics")
 
 
 def hammingDistance(slack, twitter):
@@ -22,4 +20,4 @@ def hammingDistance(slack, twitter):
 slack = "AditiSingh12345"
 twitter = "AditiSi28068977"
  
-print(hammingDistance(slack, twitter))
+print(f"<Hamming_distance>:{hammingDistance(slack, twitter)}")

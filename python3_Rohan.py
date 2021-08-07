@@ -28,4 +28,4 @@ def hammingDistance(slack, twitter):
 slack = "Rohanraj11"
 twitter = "Rohan11322"
  
-print(hammingDistance(slack, twitter))
+print(f"<Hamming distance>:{hammingDistance(slack, twitter)}")
