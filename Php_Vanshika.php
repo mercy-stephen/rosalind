@@ -6,9 +6,9 @@
 <?php
 print "Name:Vanshika Agarwal\n" ;
 print "Email:vanshika.agarwal98@gmail.com\n" ;
-print "<Slack_username>:@Vanshika_16 \n" ;
-print "Biostacks:Drug Development & VaccineInformatics & Genomics \n" ;
-print "<Twitter_handle>: @Vanshika165\n" ;
+print "<Slack_username>:@Vanshika_16\n" ;
+print "Biostacks:Drug Development & VaccineInformatics & Genomics\n" ;
+print "<Twitter_handle>:@Vanshika165\n" ;
 function hammingDist($str1, $str2)
 {
 
