@@ -6,7 +6,7 @@ chmod +x csvGenerator.sh
 ### asumming you are into the main folder
 
 echo " "
-echo "Welcome to Rosalin's csv_generator!!"
+echo "Welcome to Rosalind's csv_generator!!"
 echo "..."
 echo "Running the scripts"
 echo "..."
