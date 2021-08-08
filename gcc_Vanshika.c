@@ -19,6 +19,6 @@ int main() {
                  count++;
                }
             }
-            printf("\n<Hamming_Distance>: %d", count);
+            printf("\n<Hamming_Distance>:%d", count);
             return 0;
 }
