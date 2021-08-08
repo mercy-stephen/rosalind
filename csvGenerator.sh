@@ -25,7 +25,7 @@ sed -i '/README.md/d' names.txt
 sed -i '/gcc_Vanshika.c/d' names.txt
 
 ### setting headers and creating csv
-echo "Name,Email,<Slack_username>,<Twitter_handle>,Biostack,<Humming_Distance>" > members_rosalind.csv
+echo "Name,Email,<Slack_username>,<Twitter_handle>,Biostack,<Hamming_Distance>" > members_rosalind.csv
 
 ## handling c files part2
 echo " "
